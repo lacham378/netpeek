@@ -1,1 +1,3 @@
-target/\nnode_modules/
+target/
+node_modules/
+.DS_Store
