@@ -13,6 +13,13 @@ Visualise your packets in the browser with zero fluff and full control.
 - 📦 Lightweight, dependency-free native binary
 - 🎯 Easy to deploy — works anywhere Linux or WSL is available
 
+- 🔧 Setup instructions (cargo build, node server.js)
+
+🖥 Screenshot of the live packet stream UI
+⚙️ Architecture diagram (Rust → WebSocket → Browser)
+📦 Features list (e.g., real-time decoding, JSON export-ready, CLI output)
+🤝 Contribution guide (optional but appreciated!)
+
   ## 📸 Preview
 
 ![netpeek UI screenshot](screenshot.png) <!-- You can update this later -->
