@@ -92,3 +92,7 @@ Built with ❤️ by @lacham378 Made possible by: Rust, libpcap, Socket.IO, and 
 [ ] Add Chart.js for live visualizations
 [ ] Build Docker container for standalone deployment
 [ ] WASM frontend decoder for .pcap replay mode
+
+## 🧭 Roadmap
+
+See [ROADMAP.md](./ROADMAP.md) for planned features and enhancements.
