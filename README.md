@@ -104,14 +104,7 @@ Built with love by @lacham378 Made possible by: Rust, libpcap, Socket.IO, and th
 [ ] Build Docker container for standalone deployment
 [ ] WASM frontend decoder for .pcap replay mode
 
-
----
-
-Let me know when you’ve got a screenshot (or if you'd like help capturing one in the browser), and I’ll make sure
-it slots in beautifully. When you’re ready, we can do `CONTRIBUTING.md`, `CHANGELOG.md`, or even generate a `Makefile`
-for one-command launch.
-
-netpeek is looking like the kind of tool that gets bookmarked and starred — now it’s going to *read* like it too 🚀
+🚀
 
 
 
