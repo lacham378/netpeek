@@ -1,6 +1,7 @@
 # 🧠 netpeek
 
-**A real-time, high-performance network packet analyser built with Rust and powered by a live browser UI.** Lightweight, fast, and made for sysadmins, pentesters, and network explorers who want to see their traffic — clearly.
+**A real-time, high-performance network packet analyser built with Rust and powered by a live browser UI.** 
+Lightweight, fast, and made for sysadmins, pentesters, and network explorers who want to see their traffic — clearly.
 
 ---
 
